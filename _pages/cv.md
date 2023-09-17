@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Degree in Field, University Name, Year
+  - Additional details or honors
+* Another Degree in Another Field, Another University, Year
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Date: Position
+  * Company/Institution Name
+  * Duties included: Duty 1, Duty 2, ...
+  * Supervisor: Supervisor Name
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Another Date: Another Position
+  * Company/Institution Name
+  * Duties included: Duty 1, Duty 2, ...
+  * Supervisor: Supervisor Name
   
 Skills
 ======
@@ -33,7 +33,6 @@ Skills
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
-  * Sub-skill 2.3
 * Skill 3
 
 Publications
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Service or leadership role 1
+* Service or leadership role 2
