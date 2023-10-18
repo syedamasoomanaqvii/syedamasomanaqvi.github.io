@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /experience/
 title: "Experience"
 
 redirect_from: 
