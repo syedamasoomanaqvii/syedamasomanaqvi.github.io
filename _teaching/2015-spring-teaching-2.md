@@ -3,8 +3,8 @@ title: "Teaching Assistant"
 collection: teaching
 type: 
 permalink: /teaching/Teaching Assistant
-
 ---
+
 
 {% include base_path %}
  
