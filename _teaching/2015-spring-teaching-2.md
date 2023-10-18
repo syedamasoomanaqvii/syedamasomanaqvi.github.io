@@ -1,12 +1,15 @@
 ---
 title: "Teaching Assistant"
-layout: archive
-permalink: https://Syedamasomanaqvi.github.io/teaching/Experience.
-author_profile: true
-redirect_from:
-  - /cv
+collection: teaching
+type: 
+permalink: /teaching/Experience
+
 ---
 
+{% include base_path %}
+
+Research Associate
+======
 {% include base_path %}
 
 **Viterbi School of Engineering, University of Southern California**  
