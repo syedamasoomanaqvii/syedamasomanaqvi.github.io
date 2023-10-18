@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Syeda Masooma Naqvi"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Syeda Masooma Naqvi
 
 ## Education
 
