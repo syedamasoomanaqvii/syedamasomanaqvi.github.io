@@ -8,10 +8,6 @@ permalink: /teaching/Teaching Assistant
 
 {% include base_path %}
 
-Research Associate
-======
-{% include base_path %}
-
 **Viterbi School of Engineering, University of Southern California**  
 ======
 Aug 2023 - Present
