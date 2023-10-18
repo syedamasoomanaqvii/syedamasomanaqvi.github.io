@@ -7,6 +7,7 @@ permalink: /teaching
 
 
 {% include base_path %}
+
 Research Experience
 Research Associate
 ======
