@@ -14,10 +14,9 @@ redirect_from:
 ### Research Associate
 **Interactive Media Lab, Lahore University of Management Sciences**  
 Oct 2022 - Present
-
 Principal Investigators:
-- [Dr. Agha Ali Raza](https://aghaaliraza.com/)
-- [Dr. Maryam Mustafa](https://www.maryamustafa.com/)
+  - [Dr. Agha Ali Raza](https://aghaaliraza.com/)
+  - [Dr. Maryam Mustafa](https://www.maryamustafa.com/)
 
 ### Work In Progress
 
@@ -41,7 +40,7 @@ Principal Investigators:
   (Ready for Submission)
   - Performed Data pre processing and detailed Data Analysis of using several machine learning models
   - Led a team of student researchers and collaborated with them on writing the paper
-  - Contributed to the conceptual framework of the study and its design
+  - Contributed to defining the conceptual framework of the study and its design
 
 ## Teaching Experience
 
@@ -53,16 +52,16 @@ Aug 2023 - Present
 ### Department of Economics, LUMS  
 Aug 2020 - Jan 2020
 - ECON-330 Econometrics
-  Taking Statistics and Probability tutorials
-  Teaching Regression Analysis using Stata
-  Makinf Home Work Assignments and grading key
-  Grading Home Work Assignments and providing feedback
-  Holding Office Hours
+  - Taking Statistics and Probability tutorials
+  - Teaching Regression Analysis using Stata
+  - Designing Home Work Assignments and grading key
+  - Grading Home Work Assignments and providing feedback
+  - Holding Office Hours
 - Econ-211 Intermediate Microeconomics
-  Taking tutorials to teach concepts covered in calss
-  Grading Home Work Assignments
-  Holding Office Hours
+  - Taking tutorials to teach concepts covered in calss
+  - Grading Home Work Assignments
+  - Holding Office Hours
 - SS 187 Applied Statistics
-  Setting up Home Work Assignments
-  Grading Home Work Assignments
+  - Setting up Home Work Assignments
+  - Grading Home Work Assignments
   
