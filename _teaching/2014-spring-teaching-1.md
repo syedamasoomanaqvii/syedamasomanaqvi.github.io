@@ -1,4 +1,3 @@
-
 ---
 title: "Experience"
 collection: teaching
@@ -6,9 +5,7 @@ type:
 permalink: /teaching
 ---
 
-<!--
 {% include base_path %}
--->
 
 ## Research Experience
 
