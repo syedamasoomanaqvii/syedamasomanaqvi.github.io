@@ -11,12 +11,6 @@ redirect_from:
 
 # Syeda Masooma Naqvi
 
-> USC Viterbi School of Engineering
-> University of Southern California
-> 1204 W24th St, Los Angeles, CA 90007
-> Email: syedamas@usc.edu
-> Phone: +1 (929) 638-8377
-
 ## Education
 
 - **University of Southern California**, California, USA: [Viterbi School of Engineering](https://www.usc.edu/)
