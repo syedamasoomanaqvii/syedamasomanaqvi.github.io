@@ -16,29 +16,40 @@ redirect_from:
   - **Fulbright Scholar**
   - MS in [Applied Data Science](https://www.cs.usc.edu/academic-programs/masters/data-science/)
   - Cumulative GPA: **3.85** / 4.0
-  - Relevant Courses: Analysis of Algorithms, Machine Learning, Foundations and Applications of Data Mining, and more.
+  - Relevant Courses: Analysis of Algorithms, Machine Learning, Foundations and Applications of Data Mining, Foundations of Data Management, Principles of Programming for Informatics, Intro to Computational Thinking and Data Science.
 - **Lahore University of Management Sciences**, Lahore, Pakistan: [School of Science and Engineering](https://lums.edu.pk/)
   - BS in Economics and Mathematics (Joint)
-  - Relevant Courses: Statistics, Probability, Computational Problem Solving, Linear Algebra, and more.
+  - Relevant Courses: Statistics, Probability, Principles and Techniques of Data Science in Python, Computational Problem Solving, Linear Algebra, Real Analysis, Single and Multi-variable Calculus, Econometrics, Advanced Econometrics, Advanced Microeconomics, Intermediate Macroeconomics, Game Theory.
 
 ## Working Papers
 
-- Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza. (2023) An Anatomy of Public WhatsApp Groups: Engaging Users Through A Public Messaging Intervention
+- Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza.  An Anatomy of Public WhatsApp Groups: Engaging Users Through A Public Messaging Intervention
   - Submitted to **CSCW 2023** (under review)
-- Maryam Mustafa, Syeda Masooma Naqvi, Maria Nazar, Hadia Majid (2024) Measuring the impact of technologies and mobile wallets on low-income women’s economic empowerment in Pakistan
+- Maryam Mustafa, Syeda Masooma Naqvi, Maria Nazar, Hadia Majid. Catalyzing Women’s Financial Inclusion: An Analysis of a Mobile Wallet Program in Pakistan
   - Submitted to **CHI 2024**
 - Voice-Based Information Intervention for Hard-to-Reach Populations: Evaluating Quizzes, Short Messages, and Stories as Treatment Modalities.
   - Ready for submission to **CSCW 2024**
 
 ## Teaching Experience
 
-- **University of Southern California**, California, USA: Grader, Viterbi School of Engineering for DSCI 510 Principles of Programming for Informatics
-- **Lahore University of Management Sciences**, Lahore, Punjab, Pakistan: Teaching Assistant for multiple courses like SS 187 Applied Statistics, ECON-330 Econometrics, and Econ-211 Intermediate Microeconomics.
+- **University of Southern California**, California, USA:
+### Teaching Assistant
+-  DSCI 510 Principles of Programming for Informatics
+- **Lahore University of Management Sciences**:
+### Teaching Assistant
+- ECON-330 Econometrics
+- Econ-211 Intermediate Microeconomics
+- SS 187 Applied Statistics
 
 ## Research Experience
 
-- [Research Associate at Interactive Media Lab - Computer Science Department, LUMS](https://www.maryamustafa.com/people#h.urm5je9s3go1)
+- Research Associate at [Interactive Media Lab - Computer Science Department, LUMS](https://www.maryamustafa.com/people#h.urm5je9s3go1)
+  -Supervisors:
+   - [Dr. Agha Ali Raza](http://aghaaliraza.com)
+   - [Dr. Maryam Mustafa](https://www.maryamustafa.com)
 - Research Assistant at University of New South Wales, School of Economics
+  - Project: Positive psychology Randomized Controlled Trial intervention in 29 schools across Punjab to see how classroom based activities for confidence boosting and self-esteem building can improve academic outcomes for children.
+    - Focus: Designing the RCT Intervention, Data Handling, Data Visualizations, Data Analysis and Documenting the Research Report.
 
 ## Skills
 
@@ -50,8 +61,8 @@ redirect_from:
 
 ## Honors & Awards
 
-- Fulbright Scholarship 2022-24
-- Graduation with High Merit 2021
+- **Fulbright Scholarship 2022-24**
+- Graduation with **High Merit** 2021
 - Placed on the **Dean's Honour List**, LUMS
 - Undergraduate Scholarship at LUMS, Lahore
 - Afiniti Scholarship for the Mathematics Department at LUMS, Lahore
