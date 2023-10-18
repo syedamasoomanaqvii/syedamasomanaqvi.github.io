@@ -20,19 +20,8 @@ Principal Investigators:
 Work In Progress
 ======
 - An Anatomy of WhatsApp Groups: Engaging Users Through A Public Messaging Intervention  
-  Submitted to CSCW 2023 for review
+  (Submitted to CSCW 2023 for review)
 
-Teaching Assistant
-======
-**Viterbi School of Engineering, University of Southern California**  
-Aug 2023 - Present
-- DSCI 510 Principals of Programming for Informatics
+- Catalyzing Women's Financial Inclusion: An Analysis of a Mobile Wallet Program in Pakistan
 
-**Department of Economics, LUMS**  
-Aug 2020 - Jan 2020
-- ECON-330 Econometrics
-- Econ-211 Intermediate Microeconomics
-
-**Department of Social Sciences, LUMS**  
-Jan 2020 - June 2020
-- SS 187 Applied Statistics
+- Voice-Based Information Intervention for Hard-to-Reach Populations: Evaluating Quizzes, Short Messages, and Stories as Treatment Modalities.
