@@ -1,3 +1,4 @@
+<!-- 
 ---
 title: "Experience"
 collection: teaching
@@ -39,3 +40,4 @@ Aug 2020 - Jan 2020
 ### Department of Social Sciences, LUMS  
 Jan 2020 - June 2020
 - SS 187 Applied Statistics
+-->
