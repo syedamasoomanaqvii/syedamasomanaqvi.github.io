@@ -3,7 +3,6 @@ title: "Teaching Assistant"
 collection: teaching
 type: 
 permalink: /teaching/Experience
----Yu yu and Nelly have an extension
 ---
 
 permalink: /non-menu-page/
