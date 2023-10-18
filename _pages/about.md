@@ -5,7 +5,6 @@ author_profile: true
 permalink: /about/
 redirect_from: 
   - /about/
-  - /about.html
 ---
 I am pursuing my MS in Applied Data Science from the University of Southern California. I am a Fulbright Scholar. My current research interests include Information and Communications Technology for Development (ICT4D) and Human Computer Interaction (HCI), Social Computing and Machine Learning.
 
