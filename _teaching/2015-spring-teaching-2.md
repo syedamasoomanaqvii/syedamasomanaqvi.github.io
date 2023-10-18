@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 2"
+title: "Experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: 
+permalink: /teaching/Experience
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /cv
+---
 
-Heading 1
-======
+{% include base_path %}
 
-Heading 2
+Teaching Assistant
 ======
+**Viterbi School of Engineering, University of Southern California**  
+Aug 2023 - Present
+- DSCI 510 Principals of Programming for Informatics
 
-Heading 3
-======
+**Department of Economics, LUMS**  
+Aug 2020 - Jan 2020
+- ECON-330 Econometrics
+- Econ-211 Intermediate Microeconomics
+
+**Department of Social Sciences, LUMS**  
+Jan 2020 - June 2020
+- SS 187 Applied Statistics
