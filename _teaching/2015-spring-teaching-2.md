@@ -1,3 +1,4 @@
+<!--
 ---
 title: "Teaching Assistant"
 collection: teaching
@@ -23,3 +24,4 @@ Aug 2020 - Jan 2020
 ======
 Jan 2020 - June 2020
 - SS 187 Applied Statistics
+-->
