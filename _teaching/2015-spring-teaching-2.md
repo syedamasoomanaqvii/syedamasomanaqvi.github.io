@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 layout: archive
-permalink: /teaching/Experience
+permalink: https://Syedamasomanaqvi.github.io/teaching/Experience.
 author_profile: true
 redirect_from:
   - /cv
