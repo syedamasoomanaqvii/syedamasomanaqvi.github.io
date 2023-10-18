@@ -1,14 +1,7 @@
 ---
 title: "Teaching Assistant"
-collection: teaching
-type: 
-permalink: /teaching/Experience
----
-
----
 layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /teaching/Experience
 author_profile: true
 redirect_from:
   - /cv
