@@ -31,15 +31,13 @@ redirect_from:
   - Ready for submission to **CSCW 2024**
 
 ## Teaching Experience
-
+### Teaching Assistan
 - **University of Southern California**, California, USA:
-### Teaching Assistant
--  DSCI 510 Principles of Programming for Informatics
+  -  DSCI 510 Principles of Programming for Informatics
 - **Lahore University of Management Sciences**:
-### Teaching Assistant
-- ECON-330 Econometrics
-- Econ-211 Intermediate Microeconomics
-- SS 187 Applied Statistics
+  - ECON-330 Econometrics
+  - Econ-211 Intermediate Microeconomics
+  - SS 187 Applied Statistics
 
 ## Research Experience
 
