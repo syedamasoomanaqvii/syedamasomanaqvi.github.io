@@ -1,11 +1,3 @@
----
-layout: archive
-title: "Syeda Masooma Naqvi"
-permalink: /portfolio/
-author_profile: true
-redirect_from:
-  - /portfolio
----
 
 ---
 title: "Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza. (2023) An Anatomy of WhatsApp Groups: Engaging Users Through A Public Messaging Intervention"
