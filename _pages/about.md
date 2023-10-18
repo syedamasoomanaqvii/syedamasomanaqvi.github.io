@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /cv/
 title: "Syeda Masooma Naqvi"
 excerpt: "I am a second masters stduent in Applied Data Science at University of Southren California."
 author_profile: true
