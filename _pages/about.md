@@ -3,8 +3,6 @@ title: "Syeda Masooma Naqvi"
 excerpt: "I am a second-year master's student in Applied Data Science at the University of Southern California."
 author_profile: true
 permalink: /about/
-redirect_from: 
-  - /about/
 ---
 
 I am pursuing my MS in Applied Data Science from the University of Southern California. I am a Fulbright Scholar. My current research interests include Information and Communications Technology for Development (ICT4D), Human Computer Interaction (HCI), Social Computing, and Machine Learning.
