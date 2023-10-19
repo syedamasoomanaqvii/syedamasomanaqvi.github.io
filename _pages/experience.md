@@ -41,7 +41,7 @@ Oct 2022 - Present
   - Led a team of student researchers and collaborated with them on writing the paper
   - Contributed to defining the conceptual framework of the study and its design
 
-## Teaching Experience
+## Teaching Assistant
 
 ### Viterbi School of Engineering, University of Southern California
 Aug 2023 - Present
