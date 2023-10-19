@@ -31,7 +31,7 @@ redirect_from:
   - Ready for submission to **CSCW 2024**
 
 ## Teaching Experience
-### Teaching Assistan
+### Teaching Assistant
 - **University of Southern California**, California, USA:
   -  DSCI 510 Principles of Programming for Informatics
 - **Lahore University of Management Sciences**:
@@ -63,7 +63,7 @@ redirect_from:
 - Graduation with **High Merit** 2021
 - Placed on the **Dean's Honour List**, LUMS
 - Undergraduate Scholarship at LUMS, Lahore
-- Afiniti Scholarship for the Mathematics Department at LUMS, Lahore
+- Afiniti Limited Scholarship 2019
 
 ## Extra-curricular
 
