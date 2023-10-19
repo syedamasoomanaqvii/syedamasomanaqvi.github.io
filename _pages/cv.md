@@ -51,7 +51,7 @@ redirect_from:
 
 ## Skills
 
-- Machine Learning, Data Cleaning, Web Scraping, Statistical Modelling, Python Programming, Amazon EC2, Hadoop, Spark, MySQL, LaTeX, Stata, Econometrics, and more.
+- Machine Learning, Data Analysis, Literature Review, Thematic Analysis, Web Scraping, Python Programming, Amazon EC2, Hadoop, Spark, MySQL, LaTeX, Stata, Econometrics.
 
 ## Languages
 
