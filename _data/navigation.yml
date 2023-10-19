@@ -2,7 +2,7 @@
 main:
 #  - title: "Publications"
  #   url: /publications/
- - title: "About"
+  - title: "About"
    url: /about/
 
   - title: "Experience"
