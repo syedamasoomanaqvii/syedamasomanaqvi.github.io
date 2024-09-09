@@ -11,11 +11,12 @@ redirect_from:
 
 
 ## Education
-
+- **University of Minnesota**, Minneapolis, USA: [Computer Science and Engineering](https://twin-cities.umn.edu/)
+  - PhD in Computer Science
+  
 - **University of Southern California**, California, USA: [Viterbi School of Engineering](https://www.usc.edu/)
   - **Fulbright Scholar**
   - MS in [Applied Data Science](https://www.cs.usc.edu/academic-programs/masters/data-science/)
-  - Cumulative GPA: **3.85** / 4.0
   - Relevant Courses: Analysis of Algorithms, Machine Learning, Foundations and Applications of Data Mining, Foundations of Data Management, Principles of Programming for Informatics, Intro to Computational Thinking and Data Science.
 - **Lahore University of Management Sciences**, Lahore, Pakistan: [School of Science and Engineering](https://lums.edu.pk/)
   - BS in Economics and Mathematics (Joint)
