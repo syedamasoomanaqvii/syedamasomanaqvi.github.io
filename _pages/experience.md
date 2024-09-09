@@ -9,6 +9,13 @@ author_profile: true
 
 ## Research Experience
 
+### Graduate Research Assistant
+**GroupLens Lab, University of Minnesota**  
+Aug 2024 - Present
+
+- Advisor:
+  - [Harmanpreet Kaur]([https://harmanpk.github.io])
+
 ### Research Associate
 **Interactive Media Lab, Lahore University of Management Sciences**  
 Oct 2022 - Present
@@ -44,7 +51,7 @@ Oct 2022 - Present
 ## Teaching Assistant
 
 ### Viterbi School of Engineering, University of Southern California
-Aug 2023 - Present
+Aug 2023 - May 2024
 - DSCI 510 Principals of Programming for Informatics
   - Grading Assignments and Labs
   - Providing feedback on Home Works, keeping a track of student performance
