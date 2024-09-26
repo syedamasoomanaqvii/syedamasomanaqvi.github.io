@@ -8,7 +8,6 @@ redirect_from:
   - /about/html
 ---
 
-I am pursuing my PhD. in Computer Science at the University of Minnesota.
-I am a Fulbright Scholar. My current research interests include Information and Communications Technology for Development (ICT4D), Human Computer Interaction (HCI), Social Computing, and Machine Learning.
+I am a first year my PhD. student in Computer Science at the University of Minnesota where I am advised by Harmanpreet Kaur. I am a part of the GroupLens Lab. My current research interests lie in Human Centered Artificial Intelligence.
 
-I completed my MS in Applied Data Science from the University of Southern California. I am deeply passionate about examining technology through a multifaceted lens. Recognizing that technology is not accessible for all and its design, implementation, and accessibility can perpetuate or challenge societal norms and biases, I'm particularly drawn to understanding the nuances of how different populations interact with and are affected by technology. By bridging the realms of technology and social sciences, I aim to advocate for and contribute to more inclusive and equitable tech solutions that truly cater to the needs of all users.
+I completed my MS in Applied Data Science from the University of Southern California in May 2024. I am deeply passionate about examining AI through a multifaceted lens. Recognizing that technology is not accessible for all and its design, implementation, and accessibility can perpetuate or challenge societal norms and biases, I'm particularly drawn to understanding the nuances of how different populations interact with and are affected by AI. By bridging the realms of AI and social sciences, I aim to advocate for and contribute to more inclusive and equitable AI solutions that truly cater to the needs of all users.
