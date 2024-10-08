@@ -13,6 +13,8 @@ redirect_from:
 ## Education
 - **University of Minnesota**, Minneapolis, USA: [Computer Science and Engineering](https://twin-cities.umn.edu/)
   - PhD in Computer Science
+  - Research Area: Human Centered Artificial Intelligence
+  - Advisor: Harmanpreet Kaur
   
 - **University of Southern California**, California, USA: [Viterbi School of Engineering](https://www.usc.edu/)
   - **Fulbright Scholar**
@@ -20,7 +22,6 @@ redirect_from:
   - Relevant Courses: Analysis of Algorithms, Machine Learning, Foundations and Applications of Data Mining, Foundations of Data Management, Principles of Programming for Informatics, Intro to Computational Thinking and Data Science.
 - **Lahore University of Management Sciences**, Lahore, Pakistan: [School of Science and Engineering](https://lums.edu.pk/)
   - BS in Economics and Mathematics (Joint)
-  - Relevant Courses: Statistics, Probability, Principles and Techniques of Data Science in Python, Computational Problem Solving, Linear Algebra, Real Analysis, Single and Multi-variable Calculus, Econometrics, Advanced Econometrics, Advanced Microeconomics, Intermediate Macroeconomics, Game Theory.
 
 ## Working Papers
 
@@ -40,23 +41,10 @@ redirect_from:
   - Econ-211 Intermediate Microeconomics
   - SS 187 Applied Statistics
 
-## Research Experience
-
-- Research Associate at [Interactive Media Lab - Computer Science Department, LUMS](https://www.maryamustafa.com/people#h.urm5je9s3go1)
-  -Supervisors:
-   - [Dr. Agha Ali Raza](http://aghaaliraza.com)
-   - [Dr. Maryam Mustafa](https://www.maryamustafa.com)
-- Research Assistant at University of New South Wales, School of Economics
-  - Project: Positive psychology Randomized Controlled Trial intervention in 29 schools across Punjab to see how classroom based activities for confidence boosting and self-esteem building can improve academic outcomes for children.
-    - Focus: Designing the RCT Intervention, Data Handling, Data Visualizations, Data Analysis and Documenting the Research Report.
 
 ## Skills
 
-- Machine Learning, Data Analysis, Literature Review, Thematic Analysis, Web Scraping, Python Programming, Amazon EC2, Hadoop, Spark, MySQL, LaTeX, Stata, Econometrics.
-
-## Languages
-
-- English: Fluent (speaking, reading, writing), Urdu & Punjabi (native)
+ Inductive Thematic Analysis, Mixed Methods, Experimental Design, Econometric Methods, Python Programming, Data Science, Hadoop, Spark, MySQL
 
 ## Honors & Awards
 
