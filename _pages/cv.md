@@ -19,13 +19,13 @@ redirect_from:
 - **University of Southern California**, California, USA: [Viterbi School of Engineering](https://www.usc.edu/)
   - **Fulbright Scholar**
   - MS in [Applied Data Science](https://www.cs.usc.edu/academic-programs/masters/data-science/)
-  - Relevant Courses: Analysis of Algorithms, Machine Learning, Foundations and Applications of Data Mining, Foundations of Data Management, Principles of Programming for Informatics, Intro to Computational Thinking and Data Science.
+
 - **Lahore University of Management Sciences**, Lahore, Pakistan: [School of Science and Engineering](https://lums.edu.pk/)
   - BS in Economics and Mathematics (Joint)
 
 ## Working Papers
-
-- Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza.  An Anatomy of Public WhatsApp Groups: Engaging Users Through A Public Messaging Intervention
+- Syeda Masooma Naqvi, Ruichen He, and Harmanpreet Kaur.(2024) Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
+- Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza. An Anatomy of Public WhatsApp Groups: Engaging Users Through A Public Messaging Intervention
   - Submitted to **CSCW 2023** (under review)
 - Maryam Mustafa, Syeda Masooma Naqvi, Maria Nazar, Hadia Majid. Catalyzing Women’s Financial Inclusion: An Analysis of a Mobile Wallet Program in Pakistan
   - Submitted to **CHI 2024**
