@@ -24,13 +24,7 @@ redirect_from:
   - BS in Economics and Mathematics (Joint)
 
 ## Working Papers
-- Syeda Masooma Naqvi, Ruichen He, and Harmanpreet Kaur.(2024) Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
-- Syeda Masooma Naqvi, Maryam Mustafa and Agha Ali Raza. An Anatomy of Public WhatsApp Groups: Engaging Users Through A Public Messaging Intervention
-  - Submitted to **CSCW 2023** (under review)
-- Maryam Mustafa, Syeda Masooma Naqvi, Maria Nazar, Hadia Majid. Catalyzing Women’s Financial Inclusion: An Analysis of a Mobile Wallet Program in Pakistan
-  - Submitted to **CHI 2024**
-- Voice-Based Information Intervention for Hard-to-Reach Populations: Evaluating Quizzes, Short Messages, and Stories as Treatment Modalities.
-  - Ready for submission to **CSCW 2024**
+- Syeda Masooma Naqvi, Ruichen He, and Harmanpreet Kaur.(2025) Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
 
 ## Teaching Experience
 ### Teaching Assistant
@@ -45,16 +39,3 @@ redirect_from:
 ## Skills
 
  Inductive Thematic Analysis, Mixed Methods, Experimental Design, Econometric Methods, Python Programming, Data Science, Hadoop, Spark, MySQL
-
-## Honors & Awards
-
-- **Fulbright Scholarship 2022-24**
-- Graduation with **High Merit** 2021
-- Placed on the **Dean's Honour List**, LUMS
-- Undergraduate Scholarship at LUMS, Lahore
-- Afiniti Limited Scholarship 2019
-
-## Extra-curricular
-
-- President @ Amnesty International LUMS Chapter
-- Head Girl @ Student Council, KIMS
